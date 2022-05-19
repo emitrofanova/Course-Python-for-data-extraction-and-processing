@@ -1,0 +1,5 @@
+X = int(input())
+otd = (((X-1) % 3) == 2 or ((X-1) % 3) == 1)
+otd2 = (((X-1) % 4) == 2 or ((X-1) % 4) == 1 or ((X-1) % 4) == 3)
+answ = not(otd) and not(otd2)
+print(answ)
