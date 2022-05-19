@@ -1,0 +1,4 @@
+Input file contains:
+44473 letters
+11496 words
+1000 lines
