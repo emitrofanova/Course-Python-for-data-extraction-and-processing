@@ -1,0 +1,5 @@
+x = set(map(int,input().split()))
+y = set(map(int,input().split()))
+z = set.union(x, y)
+answ = len(x)+len(y)-len(z)
+print(answ)
