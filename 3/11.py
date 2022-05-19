@@ -1,0 +1,5 @@
+x = input()
+y = x.replace('A','1')
+z = y.replace('B','A')
+answ = z.replace('1','B')
+print(answ)
