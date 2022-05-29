@@ -1,0 +1,92 @@
+.py, .pyw, .pyc, .pyo, .pyd[3]
+import this
+else
+try
+except
+lambda, map, reduce, filter
+logging
+unittest
+threading
+finally
+except
+@
+int
+long
+int
+complex
+master
+slave
+parent
+child
+if
+else
+elif
+while
+for
+break
+continue
+class
+def
+return
+yield
+try
+except
+else
+try
+finally
+finally
+except
+else
+pass
+printf()
+or
+and
+or
+s[N:M]
+import keyword; print(keyword.kwlist)
+__doc__
+is, '.', '='
+len()
+import
+reload()
+try, except, else, finally, raise
+else, except
+finally
+sys.exc_info()
+with
+for
+itertools
+next()
+for
+yield
+return
+send()
+throw()
+with
+contextlib
+return
+@
+@декоратор(аргументы)
+re
+profile
+timeit
+sort()
++=
+.pyc
+.pyo
+int, str, float, list
+io
+{k: v for k, v in a_dict}
+{el1, el2, el3}
+print
+from __future__ import print_function
+reduce
+map
+filter
+functools
+reduce
+exec
+a, *rest, b = range(5)
+def foo(a, (b, c))
+pdb
+help()
