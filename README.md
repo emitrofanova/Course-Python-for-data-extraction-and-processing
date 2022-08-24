@@ -1,6 +1,6 @@
-There are programs that I wrote while studying a course "Python for data extraction and processing".
+These are programs that I wrote while studying a course "Python for data extraction and processing".
 
-There are the topics covered in the course:
+These are the topics covered in the course:
 
 I/O and integer arithmetic, logical expressions and conditional operator
 While loop statement, for loop, functions and recursion
